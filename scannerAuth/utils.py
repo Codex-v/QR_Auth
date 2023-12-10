@@ -1,4 +1,3 @@
-import cv2
 from pyzbar.pyzbar import decode
 from time import sleep 
 from cryptography.fernet import Fernet
